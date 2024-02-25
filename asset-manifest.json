@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myassigment/static/css/main.0aafbe44.css",
+    "main.js": "/myassigment/static/js/main.7929b1be.js",
+    "index.html": "/myassigment/index.html",
+    "main.0aafbe44.css.map": "/myassigment/static/css/main.0aafbe44.css.map",
+    "main.7929b1be.js.map": "/myassigment/static/js/main.7929b1be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aafbe44.css",
+    "static/js/main.7929b1be.js"
+  ]
+}
